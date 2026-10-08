@@ -1,0 +1,6 @@
+{
+  "name": "Arena Arcade - 3 Harika Web Oyunu",
+  "description": "Clash Royale tarzı kule savaşı (Krallık Arenası), Neon Yılan ve Uzay Akıncısı oyunlarını barındıran zengin web oyun merkezi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
